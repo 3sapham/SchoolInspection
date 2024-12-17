@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Track only the src/ folder, gitignore and readme files
+!src/
+!src/**
+!.gitignore
+!README.md
